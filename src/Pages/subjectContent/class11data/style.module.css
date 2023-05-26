@@ -1,0 +1,28 @@
+.container{
+    margin: auto;
+    text-align: center;
+    width: 60%;
+    padding: 0 5%;
+    background-color: rgb(255, 255, 255);
+}
+.container p{
+    font-weight: 900;
+    
+    text-align: start;
+}
+.container a{
+    color: rgb(62, 137, 228);
+    font-size:17px;
+    text-decoration: none;
+    line-height: 1.5;
+}
+
+.syllbus_section_ul li{
+    text-align: start;
+ 
+}
+
+.btn_group{
+    display: flex;
+    flex-direction: column;
+}
